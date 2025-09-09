@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Alp\\source\\repos\\ASPKontrolleri\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|c:\\users\\alp\\documents\\github\\aspnet_kontrolleri_dersi\\aspkontrolleri\\buttonkullanimi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|solutionrelative:aspkontrolleri\\buttonkullanimi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 158,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ButtonKullanimi.aspx",
+              "DocumentMoniker": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\ASPKontrolleri\\ButtonKullanimi.aspx",
+              "RelativeDocumentMoniker": "ASPKontrolleri\\ButtonKullanimi.aspx",
+              "ToolTip": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\ASPKontrolleri\\ButtonKullanimi.aspx",
+              "RelativeToolTip": "ASPKontrolleri\\ButtonKullanimi.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-09T07:11:35.479Z",
+              "EditorCaption": ""
             }
           ]
         }
