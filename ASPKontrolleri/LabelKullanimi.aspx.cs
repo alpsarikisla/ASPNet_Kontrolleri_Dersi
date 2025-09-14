@@ -7,16 +7,16 @@ using System.Web.UI.WebControls;
 
 namespace ASPKontrolleri
 {
-    public partial class ButtonKullanimi : System.Web.UI.Page
+    public partial class LabelKullanimi : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            this.Title = "Ben Sayfa Açılmadan önce çalışırım";
+            lbl_mesaj.Text = "Page_load event metodundan veri gönderildi";
         }
 
         protected void btn_degistir_Click(object sender, EventArgs e)
         {
-            this.Title = "Buton Tıklanınca değiştirildim";
+            lbl_mesaj.Text = "Buton ile label yazısı değiştirildi";
         }
     }
 }

@@ -11,7 +11,7 @@ namespace ASPKontrolleri
 {
 
 
-    public partial class ButtonKullanimi
+    public partial class KullaniciGirisBst
     {
 
         /// <summary>
@@ -24,30 +24,30 @@ namespace ASPKontrolleri
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// btn_tikla control.
+        ///  tb_kadi control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btn_tikla;
+        protected global::System.Web.UI.WebControls.TextBox tb_kadi;
 
         /// <summary>
-        /// btn_degistir control.
+        /// tb_sifre control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btn_degistir;
+        protected global::System.Web.UI.WebControls.TextBox tb_sifre;
 
         /// <summary>
-        /// lbtn_tikla control.
+        /// btn_giris control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.LinkButton lbtn_tikla;
+        protected global::System.Web.UI.WebControls.Button btn_giris;
     }
 }

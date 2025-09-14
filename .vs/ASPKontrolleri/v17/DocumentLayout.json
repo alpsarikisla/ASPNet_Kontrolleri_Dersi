@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|c:\\users\\alp\\documents\\github\\aspnet_kontrolleri_dersi\\aspkontrolleri\\kullanicigirisbst.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|solutionrelative:aspkontrolleri\\kullanicigirisbst.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|c:\\users\\alp\\documents\\github\\aspnet_kontrolleri_dersi\\aspkontrolleri\\buttonkullanimi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|solutionrelative:aspkontrolleri\\buttonkullanimi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\aspkontrolleri\\cokbasithesapmakinesi.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|solutionrelative:aspkontrolleri\\cokbasithesapmakinesi.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\aspkontrolleri\\cokbasithesapmakinesi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|solutionrelative:aspkontrolleri\\cokbasithesapmakinesi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "KullaniciGirisBst.aspx",
+              "DocumentMoniker": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\ASPKontrolleri\\KullaniciGirisBst.aspx",
+              "RelativeDocumentMoniker": "ASPKontrolleri\\KullaniciGirisBst.aspx",
+              "ToolTip": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\ASPKontrolleri\\KullaniciGirisBst.aspx",
+              "RelativeToolTip": "ASPKontrolleri\\KullaniciGirisBst.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-11T08:50:12.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ButtonKullanimi.aspx",
               "DocumentMoniker": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\ASPKontrolleri\\ButtonKullanimi.aspx",
               "RelativeDocumentMoniker": "ASPKontrolleri\\ButtonKullanimi.aspx",
@@ -30,8 +55,32 @@
               "RelativeToolTip": "ASPKontrolleri\\ButtonKullanimi.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-09-09T07:11:35.479Z",
+              "WhenOpened": "2025-09-10T17:51:07.422Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CokBasitHesapMakinesi.aspx",
+              "DocumentMoniker": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\ASPKontrolleri\\CokBasitHesapMakinesi.aspx",
+              "RelativeDocumentMoniker": "ASPKontrolleri\\CokBasitHesapMakinesi.aspx",
+              "ToolTip": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\ASPKontrolleri\\CokBasitHesapMakinesi.aspx",
+              "RelativeToolTip": "ASPKontrolleri\\CokBasitHesapMakinesi.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-10T18:04:30.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CokBasitHesapMakinesi.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\ASPKontrolleri\\CokBasitHesapMakinesi.aspx.cs",
+              "RelativeDocumentMoniker": "ASPKontrolleri\\CokBasitHesapMakinesi.aspx.cs",
+              "ToolTip": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\ASPKontrolleri\\CokBasitHesapMakinesi.aspx.cs",
+              "RelativeToolTip": "ASPKontrolleri\\CokBasitHesapMakinesi.aspx.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAYwD0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T17:48:13.633Z"
             }
           ]
         }

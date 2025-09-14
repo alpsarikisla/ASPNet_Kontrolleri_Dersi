@@ -11,7 +11,7 @@ namespace ASPKontrolleri
 {
 
 
-    public partial class ButtonKullanimi
+    public partial class LabelKullanimi
     {
 
         /// <summary>
@@ -24,13 +24,13 @@ namespace ASPKontrolleri
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// btn_tikla control.
+        /// lbl_mesaj control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btn_tikla;
+        protected global::System.Web.UI.WebControls.Label lbl_mesaj;
 
         /// <summary>
         /// btn_degistir control.
@@ -40,14 +40,5 @@ namespace ASPKontrolleri
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button btn_degistir;
-
-        /// <summary>
-        /// lbtn_tikla control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.LinkButton lbtn_tikla;
     }
 }
