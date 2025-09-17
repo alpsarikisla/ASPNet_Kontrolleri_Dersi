@@ -24,13 +24,22 @@ namespace ASPKontrolleri
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        ///  tb_kadi control.
+        /// tb_kadi control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox tb_kadi;
+
+        /// <summary>
+        /// lbl_kadiMesaj control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lbl_kadiMesaj;
 
         /// <summary>
         /// tb_sifre control.
@@ -42,6 +51,15 @@ namespace ASPKontrolleri
         protected global::System.Web.UI.WebControls.TextBox tb_sifre;
 
         /// <summary>
+        /// lbl_sifreMesaj control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lbl_sifreMesaj;
+
+        /// <summary>
         /// btn_giris control.
         /// </summary>
         /// <remarks>
@@ -49,5 +67,14 @@ namespace ASPKontrolleri
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button btn_giris;
+
+        /// <summary>
+        /// lbl_mesaj control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lbl_mesaj;
     }
 }

@@ -3,11 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|c:\\users\\alp\\documents\\github\\aspnet_kontrolleri_dersi\\aspkontrolleri\\kullanicigirisbst.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|c:\\users\\alp\\documents\\github\\aspnet_kontrolleri_dersi\\aspkontrolleri\\kayitol.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|solutionrelative:aspkontrolleri\\kayitol.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|c:\\users\\alp\\documents\\github\\aspnet_kontrolleri_dersi\\aspkontrolleri\\kayitol.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|solutionrelative:aspkontrolleri\\kayitol.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|c:\\users\\alp\\documents\\github\\aspnet_kontrolleri_dersi\\aspkontrolleri\\css\\giriskayitformstil.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|solutionrelative:aspkontrolleri\\css\\giriskayitformstil.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\aspkontrolleri\\kullanicigirisbst.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|solutionrelative:aspkontrolleri\\kullanicigirisbst.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|c:\\users\\alp\\documents\\github\\aspnet_kontrolleri_dersi\\aspkontrolleri\\buttonkullanimi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|c:\\users\\alp\\documents\\github\\aspnet_kontrolleri_dersi\\aspkontrolleri\\kullanicigirisbst.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|solutionrelative:aspkontrolleri\\kullanicigirisbst.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\aspkontrolleri\\buttonkullanimi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|solutionrelative:aspkontrolleri\\buttonkullanimi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -26,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 158,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +50,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KayitOl.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\ASPKontrolleri\\KayitOl.aspx.cs",
+              "RelativeDocumentMoniker": "ASPKontrolleri\\KayitOl.aspx.cs",
+              "ToolTip": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\ASPKontrolleri\\KayitOl.aspx.cs",
+              "RelativeToolTip": "ASPKontrolleri\\KayitOl.aspx.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T07:22:21.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "KayitOl.aspx",
+              "DocumentMoniker": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\ASPKontrolleri\\KayitOl.aspx",
+              "RelativeDocumentMoniker": "ASPKontrolleri\\KayitOl.aspx",
+              "ToolTip": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\ASPKontrolleri\\KayitOl.aspx",
+              "RelativeToolTip": "ASPKontrolleri\\KayitOl.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-16T06:56:05.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GirisKayitFormStil.css",
+              "DocumentMoniker": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\ASPKontrolleri\\css\\GirisKayitFormStil.css",
+              "RelativeDocumentMoniker": "ASPKontrolleri\\css\\GirisKayitFormStil.css",
+              "ToolTip": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\ASPKontrolleri\\css\\GirisKayitFormStil.css",
+              "RelativeToolTip": "ASPKontrolleri\\css\\GirisKayitFormStil.css",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-16T06:54:33.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KullaniciGirisBst.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\ASPKontrolleri\\KullaniciGirisBst.aspx.cs",
+              "RelativeDocumentMoniker": "ASPKontrolleri\\KullaniciGirisBst.aspx.cs",
+              "ToolTip": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\ASPKontrolleri\\KullaniciGirisBst.aspx.cs",
+              "RelativeToolTip": "ASPKontrolleri\\KullaniciGirisBst.aspx.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwBcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T11:38:18.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "KullaniciGirisBst.aspx",
               "DocumentMoniker": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\ASPKontrolleri\\KullaniciGirisBst.aspx",
               "RelativeDocumentMoniker": "ASPKontrolleri\\KullaniciGirisBst.aspx",
@@ -47,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ButtonKullanimi.aspx",
               "DocumentMoniker": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\ASPKontrolleri\\ButtonKullanimi.aspx",
               "RelativeDocumentMoniker": "ASPKontrolleri\\ButtonKullanimi.aspx",
@@ -55,12 +123,11 @@
               "RelativeToolTip": "ASPKontrolleri\\ButtonKullanimi.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-09-10T17:51:07.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T17:51:07.422Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "CokBasitHesapMakinesi.aspx",
               "DocumentMoniker": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\ASPKontrolleri\\CokBasitHesapMakinesi.aspx",
               "RelativeDocumentMoniker": "ASPKontrolleri\\CokBasitHesapMakinesi.aspx",
@@ -72,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "CokBasitHesapMakinesi.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\ASPKontrolleri\\CokBasitHesapMakinesi.aspx.cs",
               "RelativeDocumentMoniker": "ASPKontrolleri\\CokBasitHesapMakinesi.aspx.cs",

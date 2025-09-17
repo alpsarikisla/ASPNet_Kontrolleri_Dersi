@@ -69,6 +69,8 @@
   <ItemGroup>
     <Content Include="ButtonKullanimi.aspx" />
     <Content Include="CokBasitHesapMakinesi.aspx" />
+    <Content Include="css\GirisKayitFormStil.css" />
+    <Content Include="KayitOl.aspx" />
     <Content Include="KullaniciGirisBst.aspx" />
     <Content Include="LabelKullanimi.aspx" />
     <Content Include="test.aspx" />
@@ -89,6 +91,13 @@
     </Compile>
     <Compile Include="CokBasitHesapMakinesi.aspx.designer.cs">
       <DependentUpon>CokBasitHesapMakinesi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="KayitOl.aspx.cs">
+      <DependentUpon>KayitOl.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="KayitOl.aspx.designer.cs">
+      <DependentUpon>KayitOl.aspx</DependentUpon>
     </Compile>
     <Compile Include="KullaniciGirisBst.aspx.cs">
       <DependentUpon>KullaniciGirisBst.aspx</DependentUpon>

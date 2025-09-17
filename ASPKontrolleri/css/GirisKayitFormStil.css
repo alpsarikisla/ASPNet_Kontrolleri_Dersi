@@ -1,0 +1,54 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Calibri;
+}
+
+/*Sayfadaki her html kontrolünün kendi karakteristik boşluklarını yok et*/
+.tasiyici {
+    width: 420px;
+    min-height: 200px;
+    border: 1px solid silver;
+    margin: 200px auto;
+    padding: 20px;
+    text-align: center;
+}
+.baslik {
+    padding-bottom: 15px;
+    border-bottom: 1px solid silver;
+    color: dimgray;
+    margin-bottom: 15px;
+}
+
+.satir {
+    padding: 10px 0;
+    text-align: left;
+}
+
+.metinKutu {
+    width: 396px;
+    padding: 10px;
+    border-radius: 12px;
+    border: 1px solid deeppink;
+}
+
+.girisButon {
+    padding: 10px;
+    width: 420px;
+    background-color: deeppink;
+    color: white;
+    font-size: 13pt;
+    font-weight: 900;
+    border: 1px solid pink;
+    border-radius: 12px;
+}
+
+
+
+.mesaj {
+    color: red;
+    margin-left: 10px;
+}
