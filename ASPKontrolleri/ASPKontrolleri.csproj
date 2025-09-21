@@ -70,6 +70,7 @@
     <Content Include="ButtonKullanimi.aspx" />
     <Content Include="CokBasitHesapMakinesi.aspx" />
     <Content Include="css\GirisKayitFormStil.css" />
+    <Content Include="DropDownListKontrolu.aspx" />
     <Content Include="KayitOl.aspx" />
     <Content Include="KullaniciGirisBst.aspx" />
     <Content Include="LabelKullanimi.aspx" />
@@ -91,6 +92,13 @@
     </Compile>
     <Compile Include="CokBasitHesapMakinesi.aspx.designer.cs">
       <DependentUpon>CokBasitHesapMakinesi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DropDownListKontrolu.aspx.cs">
+      <DependentUpon>DropDownListKontrolu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DropDownListKontrolu.aspx.designer.cs">
+      <DependentUpon>DropDownListKontrolu.aspx</DependentUpon>
     </Compile>
     <Compile Include="KayitOl.aspx.cs">
       <DependentUpon>KayitOl.aspx</DependentUpon>
