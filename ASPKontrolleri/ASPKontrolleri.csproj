@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="ButtonKullanimi.aspx" />
+    <Content Include="CheckBoxRadioButtonKontrolleri.aspx" />
     <Content Include="CokBasitHesapMakinesi.aspx" />
     <Content Include="css\GirisKayitFormStil.css" />
     <Content Include="DropDownListKontrolu.aspx" />
@@ -85,6 +86,13 @@
     </Compile>
     <Compile Include="ButtonKullanimi.aspx.designer.cs">
       <DependentUpon>ButtonKullanimi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CheckBoxRadioButtonKontrolleri.aspx.cs">
+      <DependentUpon>CheckBoxRadioButtonKontrolleri.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CheckBoxRadioButtonKontrolleri.aspx.designer.cs">
+      <DependentUpon>CheckBoxRadioButtonKontrolleri.aspx</DependentUpon>
     </Compile>
     <Compile Include="CokBasitHesapMakinesi.aspx.cs">
       <DependentUpon>CokBasitHesapMakinesi.aspx</DependentUpon>
