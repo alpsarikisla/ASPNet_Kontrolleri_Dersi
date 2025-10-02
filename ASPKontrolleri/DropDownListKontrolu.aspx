@@ -6,8 +6,8 @@
 <head runat="server">
     <title></title>
     <style>
-        div{
-            margin:20px 0;
+        div {
+            margin: 20px 0;
         }
     </style>
 </head>
@@ -38,7 +38,7 @@
                 <asp:ListItem Text="Alperen Efe Düz" Value="509"></asp:ListItem>
                 <asp:ListItem Text="Arda Çırak" Value="568"></asp:ListItem>
                 <asp:ListItem Text="Alişan Çakır" Value="516"></asp:ListItem>
-                 <asp:ListItem Text="İbrahim Savaş" Value="518"></asp:ListItem>
+                <asp:ListItem Text="İbrahim Savaş" Value="518"></asp:ListItem>
             </asp:DropDownList>
             <br />
             <asp:Label ID="lbl_secilenBaskan" runat="server"></asp:Label>
@@ -46,12 +46,12 @@
         <div>
             <label>Eklenecek Veri</label>
             <asp:TextBox ID="tb_eklenecek" runat="server"></asp:TextBox>
-            <asp:Button ID="btn_eklenecek" runat="server" OnClick="btn_eklenecek_Click" Text="Ekle"/>
+            <asp:Button ID="btn_eklenecek" runat="server" OnClick="btn_eklenecek_Click" Text="Ekle" />
             <br />
-            <asp:DropDownList ID ="ddl_ekleneler" runat="server"></asp:DropDownList>
-            <asp:Button ID="btn_yazdir" runat="server" Text="Yazdır" OnClick="btn_yazdir_Click"/>
+            <asp:DropDownList ID="ddl_ekleneler" runat="server"></asp:DropDownList>
+            <asp:Button ID="btn_yazdir" runat="server" Text="Yazdır" OnClick="btn_yazdir_Click" />
             <br />
-            <asp:Label ID="lbl_secilmis" runat="server" ></asp:Label>
+            <asp:Label ID="lbl_secilmis" runat="server"></asp:Label>
         </div>
     </form>
 </body>

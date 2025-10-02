@@ -71,6 +71,7 @@
     <Content Include="CheckBoxRadioButtonKontrolleri.aspx" />
     <Content Include="CokBasitHesapMakinesi.aspx" />
     <Content Include="css\GirisKayitFormStil.css" />
+    <Content Include="DataBoundDropDown.aspx" />
     <Content Include="DropDownListKontrolu.aspx" />
     <Content Include="KayitOl.aspx" />
     <Content Include="KullaniciGirisBst.aspx" />
@@ -101,6 +102,13 @@
     <Compile Include="CokBasitHesapMakinesi.aspx.designer.cs">
       <DependentUpon>CokBasitHesapMakinesi.aspx</DependentUpon>
     </Compile>
+    <Compile Include="DataBoundDropDown.aspx.cs">
+      <DependentUpon>DataBoundDropDown.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DataBoundDropDown.aspx.designer.cs">
+      <DependentUpon>DataBoundDropDown.aspx</DependentUpon>
+    </Compile>
     <Compile Include="DropDownListKontrolu.aspx.cs">
       <DependentUpon>DropDownListKontrolu.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -129,6 +137,9 @@
     <Compile Include="LabelKullanimi.aspx.designer.cs">
       <DependentUpon>LabelKullanimi.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Model\Kategori.cs" />
+    <Compile Include="Model\Ogrenci.cs" />
+    <Compile Include="Model\VeriKaynagi.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="test.aspx.cs">
       <DependentUpon>test.aspx</DependentUpon>
