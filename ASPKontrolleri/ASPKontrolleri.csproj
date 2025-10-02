@@ -72,6 +72,7 @@
     <Content Include="CokBasitHesapMakinesi.aspx" />
     <Content Include="css\GirisKayitFormStil.css" />
     <Content Include="DataBoundDropDown.aspx" />
+    <Content Include="DataGridViewKullanimi.aspx" />
     <Content Include="DropDownListKontrolu.aspx" />
     <Content Include="KayitOl.aspx" />
     <Content Include="KullaniciGirisBst.aspx" />
@@ -108,6 +109,13 @@
     </Compile>
     <Compile Include="DataBoundDropDown.aspx.designer.cs">
       <DependentUpon>DataBoundDropDown.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DataGridViewKullanimi.aspx.cs">
+      <DependentUpon>DataGridViewKullanimi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DataGridViewKullanimi.aspx.designer.cs">
+      <DependentUpon>DataGridViewKullanimi.aspx</DependentUpon>
     </Compile>
     <Compile Include="DropDownListKontrolu.aspx.cs">
       <DependentUpon>DropDownListKontrolu.aspx</DependentUpon>
