@@ -14,6 +14,10 @@
             <p>Tablo yapısını kendisi otomatik olarak oluşturur</p>
             <asp:GridView ID="gv_ogrenciler" runat="server"></asp:GridView>
         </div>
+        <div>
+            <h3>Veritabanı Kullanarak Grid View</h3>
+            <asp:GridView ID="gv_kategoriler" runat="server"></asp:GridView>
+        </div>
     </form>
 </body>
 </html>

@@ -71,14 +71,23 @@
     <Content Include="CheckBoxRadioButtonKontrolleri.aspx" />
     <Content Include="CokBasitHesapMakinesi.aspx" />
     <Content Include="css\GirisKayitFormStil.css" />
+    <Content Include="css\GridViewStil.css" />
+    <Content Include="css\KayitFormStil.css" />
+    <Content Include="css\ListViewStil.css" />
     <Content Include="DataBoundDropDown.aspx" />
     <Content Include="DataGridViewKullanimi.aspx" />
     <Content Include="DropDownListKontrolu.aspx" />
+    <Content Include="KategoriKaydet.aspx" />
     <Content Include="KayitOl.aspx" />
     <Content Include="KullaniciGirisBst.aspx" />
     <Content Include="LabelKullanimi.aspx" />
+    <Content Include="ListViewKullanimi.aspx" />
+    <Content Include="Resimler\yertutucu.jpg" />
+    <Content Include="TablosuzListView.aspx" />
     <Content Include="test.aspx" />
     <Content Include="TextBoxKullanimi.aspx" />
+    <Content Include="UrunKaydet.aspx" />
+    <Content Include="Urunler.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -124,6 +133,13 @@
     <Compile Include="DropDownListKontrolu.aspx.designer.cs">
       <DependentUpon>DropDownListKontrolu.aspx</DependentUpon>
     </Compile>
+    <Compile Include="KategoriKaydet.aspx.cs">
+      <DependentUpon>KategoriKaydet.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="KategoriKaydet.aspx.designer.cs">
+      <DependentUpon>KategoriKaydet.aspx</DependentUpon>
+    </Compile>
     <Compile Include="KayitOl.aspx.cs">
       <DependentUpon>KayitOl.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -145,10 +161,25 @@
     <Compile Include="LabelKullanimi.aspx.designer.cs">
       <DependentUpon>LabelKullanimi.aspx</DependentUpon>
     </Compile>
+    <Compile Include="ListViewKullanimi.aspx.cs">
+      <DependentUpon>ListViewKullanimi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ListViewKullanimi.aspx.designer.cs">
+      <DependentUpon>ListViewKullanimi.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Model\Kategori.cs" />
     <Compile Include="Model\Ogrenci.cs" />
+    <Compile Include="Model\Urun.cs" />
     <Compile Include="Model\VeriKaynagi.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TablosuzListView.aspx.cs">
+      <DependentUpon>TablosuzListView.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TablosuzListView.aspx.designer.cs">
+      <DependentUpon>TablosuzListView.aspx</DependentUpon>
+    </Compile>
     <Compile Include="test.aspx.cs">
       <DependentUpon>test.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -162,6 +193,20 @@
     </Compile>
     <Compile Include="TextBoxKullanimi.aspx.designer.cs">
       <DependentUpon>TextBoxKullanimi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UrunKaydet.aspx.cs">
+      <DependentUpon>UrunKaydet.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UrunKaydet.aspx.designer.cs">
+      <DependentUpon>UrunKaydet.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Urunler.aspx.cs">
+      <DependentUpon>Urunler.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Urunler.aspx.designer.cs">
+      <DependentUpon>Urunler.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

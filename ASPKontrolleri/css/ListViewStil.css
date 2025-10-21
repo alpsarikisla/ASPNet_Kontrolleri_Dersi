@@ -1,0 +1,35 @@
+﻿* {
+    margin:0;
+    padding:0;
+}
+body {
+    font-family: Calibri;
+}
+
+.tasiyici {
+    width: 1200px;
+    margin: 30px auto;
+}
+
+.baslik {
+    border: 1px solid silver;
+    border-bottom: none;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    padding: 12px;
+}
+
+.icerik {
+    border: 1px solid silver;
+    border-top: none;
+}
+.urunKutu
+{
+    width:206px;
+    padding:10px;
+    border:1px solid silver;
+    border-radius:5px;
+    margin:5px;
+    min-height:290px;
+    float:left;
+}

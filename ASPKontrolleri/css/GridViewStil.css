@@ -1,0 +1,27 @@
+﻿body {
+    font-family:Calibri;
+}
+.tasiyici
+{
+    width:1200px;
+    margin:30px auto;
+}
+.baslik{
+    border:1px solid silver;
+    border-bottom:none;
+    border-top-left-radius:7px;
+    border-top-right-radius:7px;
+    padding:12px;
+
+}
+.filtre {
+    padding: 12px 6px;
+    border: 1px solid silver;
+}
+.icerik {
+    border: 1px solid silver;
+    border-top: none;
+}
+.icerik table{
+    width:100%;
+}

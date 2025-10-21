@@ -1,0 +1,34 @@
+﻿body {
+    font-family:Calibri;
+}
+.tasiyici
+{
+    border:1px solid blue;
+    width:1200px;
+   /* height:30px;*/
+}
+.icerik
+{
+
+}
+.satir{
+    padding:10px 0;
+}
+.sol{
+    width:560px;
+    float:left;
+    margin:20px;
+}
+.sag {
+    width: 560px;
+    float: left;
+    margin:20px;
+}
+.kamil{
+    width:540px;
+    padding:7px;
+}
+.cemal {
+    width: 560px;
+    padding: 7px;
+}
