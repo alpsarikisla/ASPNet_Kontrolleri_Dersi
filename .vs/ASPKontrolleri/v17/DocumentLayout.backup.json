@@ -3,19 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|c:\\users\\alp\\documents\\github\\aspnet_kontrolleri_dersi\\aspkontrolleri\\urunkaydet.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|solutionrelative:aspkontrolleri\\urunkaydet.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|c:\\users\\alp\\documents\\github\\aspnet_kontrolleri_dersi\\aspkontrolleri\\urunkaydet.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|solutionrelative:aspkontrolleri\\urunkaydet.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|c:\\users\\alp\\documents\\github\\aspnet_kontrolleri_dersi\\aspkontrolleri\\css\\kayitformstil.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|solutionrelative:aspkontrolleri\\css\\kayitformstil.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|c:\\users\\alp\\documents\\github\\aspnet_kontrolleri_dersi\\aspkontrolleri\\urunkaydet.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|solutionrelative:aspkontrolleri\\urunkaydet.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\aspkontrolleri\\urunkaydet.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|solutionrelative:aspkontrolleri\\urunkaydet.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|c:\\users\\alp\\documents\\github\\aspnet_kontrolleri_dersi\\aspkontrolleri\\model\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|c:\\users\\alp\\documents\\github\\aspnet_kontrolleri_dersi\\aspkontrolleri\\model\\tedarikci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|solutionrelative:aspkontrolleri\\model\\tedarikci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\aspkontrolleri\\model\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|solutionrelative:aspkontrolleri\\model\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -35,44 +39,38 @@
           ]
         },
         {
-          "DockedWidth": 166,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 413,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "KayitFormStil.css",
-              "DocumentMoniker": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\ASPKontrolleri\\css\\KayitFormStil.css",
-              "RelativeDocumentMoniker": "ASPKontrolleri\\css\\KayitFormStil.css",
-              "ToolTip": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\ASPKontrolleri\\css\\KayitFormStil.css",
-              "RelativeToolTip": "ASPKontrolleri\\css\\KayitFormStil.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-20T13:50:41.364Z",
+              "DocumentIndex": 3,
+              "Title": "Tedarikci.cs",
+              "DocumentMoniker": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\ASPKontrolleri\\Model\\Tedarikci.cs",
+              "RelativeDocumentMoniker": "ASPKontrolleri\\Model\\Tedarikci.cs",
+              "ToolTip": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\ASPKontrolleri\\Model\\Tedarikci.cs",
+              "RelativeToolTip": "ASPKontrolleri\\Model\\Tedarikci.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T07:35:41.985Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 392,
-          "SelectedChildIndex": 0,
-          "Children": [
+            },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UrunKaydet.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\ASPKontrolleri\\UrunKaydet.aspx.cs",
               "RelativeDocumentMoniker": "ASPKontrolleri\\UrunKaydet.aspx.cs",
               "ToolTip": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\ASPKontrolleri\\UrunKaydet.aspx.cs",
               "RelativeToolTip": "ASPKontrolleri\\UrunKaydet.aspx.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAYwA8AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwA0AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T06:48:38.04Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Kategori.cs",
               "DocumentMoniker": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\ASPKontrolleri\\Model\\Kategori.cs",
               "RelativeDocumentMoniker": "ASPKontrolleri\\Model\\Kategori.cs",
@@ -85,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "UrunKaydet.aspx",
               "DocumentMoniker": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\ASPKontrolleri\\UrunKaydet.aspx",
               "RelativeDocumentMoniker": "ASPKontrolleri\\UrunKaydet.aspx",
@@ -94,6 +92,19 @@
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-10-20T11:47:24.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KayitFormStil.css",
+              "DocumentMoniker": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\ASPKontrolleri\\css\\KayitFormStil.css",
+              "RelativeDocumentMoniker": "ASPKontrolleri\\css\\KayitFormStil.css",
+              "ToolTip": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\ASPKontrolleri\\css\\KayitFormStil.css",
+              "RelativeToolTip": "ASPKontrolleri\\css\\KayitFormStil.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-20T13:50:41.364Z",
               "EditorCaption": ""
             }
           ]

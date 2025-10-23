@@ -42,6 +42,33 @@ namespace ASPKontrolleri
         protected global::System.Web.UI.WebControls.DropDownList ddl_kategoriler;
 
         /// <summary>
+        /// ddl_tedarikciler control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.DropDownList ddl_tedarikciler;
+
+        /// <summary>
+        /// cb_satistaMi control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.CheckBox cb_satistaMi;
+
+        /// <summary>
+        /// btn_kaydet control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btn_kaydet;
+
+        /// <summary>
         /// tb_fiyat control.
         /// </summary>
         /// <remarks>
