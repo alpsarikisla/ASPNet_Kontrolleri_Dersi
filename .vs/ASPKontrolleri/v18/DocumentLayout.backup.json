@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|c:\\users\\alp\\documents\\github\\aspnet_kontrolleri_dersi\\aspkontrolleri\\urunkaydet.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6189E40-107E-417D-8C2A-E75A4F379134}|ASPKontrolleri\\ASPKontrolleri.csproj|solutionrelative:aspkontrolleri\\urunkaydet.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 91,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 583,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UrunKaydet.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\ASPKontrolleri\\UrunKaydet.aspx.cs",
+              "RelativeDocumentMoniker": "ASPKontrolleri\\UrunKaydet.aspx.cs",
+              "ToolTip": "C:\\Users\\Alp\\Documents\\GitHub\\ASPNet_Kontrolleri_Dersi\\ASPKontrolleri\\UrunKaydet.aspx.cs",
+              "RelativeToolTip": "ASPKontrolleri\\UrunKaydet.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T06:48:38.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
